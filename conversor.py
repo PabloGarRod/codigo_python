@@ -34,6 +34,6 @@ elif opcion=="3":
     dolares = str(dolares)
     print("Tienes $" + dolares + " dólares.")
 else:
-    print("Ingresa opción correcta")
+    print("Ingresa opción correcta.")
 
 
